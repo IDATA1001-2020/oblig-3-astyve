@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Client here.
+ * The main class for the the application.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Arne Styve
+ * @version 2020-09-18
  */
 public class Client
 {
